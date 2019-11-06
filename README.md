@@ -1,2 +1,2 @@
 # docker-monaco
- Docker image for Fortran project (with gfort, CMake and Doxygen).
+ Docker image for Fortran project (with gfortran, CMake and Doxygen).
